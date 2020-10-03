@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h> // Only for ESP8266
 
 extern "C" {
     #include <espnow.h>
